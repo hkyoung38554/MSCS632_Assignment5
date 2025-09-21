@@ -1,0 +1,65 @@
+Object: nil error: did not understand #add:
+MessageNotUnderstood(Exception)>>signal (ExcHandling.st:254)
+UndefinedObject(Object)>>doesNotUnderstand: #add: (SysExcept.st:1448)
+Driver>>addRide: (rides.st:71)
+UndefinedObject>>executeStatements (rides.st:117)
+Object: nil error: did not understand #add:
+MessageNotUnderstood(Exception)>>signal (ExcHandling.st:254)
+UndefinedObject(Object)>>doesNotUnderstand: #add: (SysExcept.st:1448)
+Driver>>addRide: (rides.st:71)
+UndefinedObject>>executeStatements (rides.st:117)
+Object: nil error: did not understand #add:
+MessageNotUnderstood(Exception)>>signal (ExcHandling.st:254)
+UndefinedObject(Object)>>doesNotUnderstand: #add: (SysExcept.st:1448)
+Driver>>addRide: (rides.st:71)
+UndefinedObject>>executeStatements (rides.st:117)
+Object: nil error: did not understand #add:
+MessageNotUnderstood(Exception)>>signal (ExcHandling.st:254)
+UndefinedObject(Object)>>doesNotUnderstand: #add: (SysExcept.st:1448)
+Rider>>requestRide: (rides.st:100)
+UndefinedObject>>executeStatements (rides.st:120)
+Object: nil error: did not understand #add:
+MessageNotUnderstood(Exception)>>signal (ExcHandling.st:254)
+UndefinedObject(Object)>>doesNotUnderstand: #add: (SysExcept.st:1448)
+Rider>>requestRide: (rides.st:100)
+UndefinedObject>>executeStatements (rides.st:120)
+=== Polymorphic ride listing ===
+[Standard] R-1001 Airport -> DowntownObject: 1 error: The program attempted to divide a number by zero
+ZeroDivide(Exception)>>signal (ExcHandling.st:254)
+SmallInteger(Number)>>zeroDivide (SysExcept.st:1426)
+Fraction>>setNumerator:setDenominator: (Fraction.st:485)
+Fraction class>>numerator:denominator: (Fraction.st:66)
+Fraction>>- (Fraction.st:151)
+FloatD(Float)>>printOn:special: (Float.st:533)
+FloatD(Float)>>printOn: (Float.st:436)
+FloatD(Object)>>printString (Object.st:534)
+StandardRide(Ride)>>rideDetails (rides.st:27)
+optimized [] in UndefinedObject>>executeStatements (rides.st:123)
+OrderedCollection>>do: (OrderColl.st:67)
+UndefinedObject>>executeStatements (rides.st:123)
+
+=== Driver details ===
+Object: 1 error: The program attempted to divide a number by zero
+ZeroDivide(Exception)>>signal (ExcHandling.st:254)
+SmallInteger(Number)>>zeroDivide (SysExcept.st:1426)
+Fraction>>setNumerator:setDenominator: (Fraction.st:485)
+Fraction class>>numerator:denominator: (Fraction.st:66)
+Fraction>>- (Fraction.st:151)
+FloatD(Float)>>printOn:special: (Float.st:533)
+FloatD(Float)>>printOn: (Float.st:436)
+FloatD(Object)>>printString (Object.st:534)
+Driver>>getDriverInfo (rides.st:74)
+UndefinedObject>>executeStatements (rides.st:126)
+Object: nil error: did not understand #do:
+MessageNotUnderstood(Exception)>>signal (ExcHandling.st:254)
+UndefinedObject(Object)>>doesNotUnderstand: #do: (SysExcept.st:1448)
+Driver>>listRides (rides.st:81)
+UndefinedObject>>executeStatements (rides.st:126)
+
+=== Rider history ===
+Rider Haeri (U-55) ride history: 0 rides
+Object: nil error: did not understand #do:
+MessageNotUnderstood(Exception)>>signal (ExcHandling.st:254)
+UndefinedObject(Object)>>doesNotUnderstand: #do: (SysExcept.st:1448)
+Rider>>viewRides (rides.st:104)
+UndefinedObject>>executeStatements (rides.st:129)
