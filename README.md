@@ -12,13 +12,13 @@ This project implements a ride sharing system in C++ and Smalltalk to demonstrat
 - Assignment5_Haeri Kyoung.pdf
 
 ## How to Run (C++)
-1) cd cpp
-2) ./rides
-3) Output matches sample_output_cpp.txt
+1) `cd cpp`
+2) `./rides`
+3) Output matches sample_output_cpp.txt`
 
 ## How to Run (Smalltalk)
-1) cd smalltalk
-2) gst rides.st
+1) `cd smalltalk`
+2) `gst rides.st`
 3) Output matches sample_output_smalltalk.txt
 
 ## OOP Principles Shown
