@@ -1,0 +1,17 @@
+=== Polymorphic ride listing ===
+[Standard] R-1001 Airport -> Downtown | distance: 12.4 mi | fare: $20.60
+[Premium] R-1002 Campus -> Museum | distance: 6.10 mi | fare: $24.33
+[Standard] R-1003 Stadium -> Hotel | distance: 3.80 mi | fare: $7.70
+
+=== Driver details ===
+Driver Alex (D-77), rating 4.94
+Completed rides: 3
+[Standard] R-1001 Airport -> Downtown | distance: 12.40 mi | fare: $20.60
+[Premium] R-1002 Campus -> Museum | distance: 6.10 mi | fare: $24.33
+[Standard] R-1003 Stadium -> Hotel | distance: 3.80 mi | fare: $7.70
+Total earnings: $52.63
+
+=== Rider history ===
+Rider Haeri (U-55) ride history: 2 rides
+[Standard] R-1001 Airport -> Downtown | distance: 12.40 mi | fare: $20.60
+[Standard] R-1003 Stadium -> Hotel | distance: 3.80 mi | fare: $7.70
